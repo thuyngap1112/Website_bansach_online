@@ -1,0 +1,84 @@
+
+/* quangcao */
+.left .quangcao{
+    margin-left: auto;  margin-right: auto;
+}
+.left .quangcao img{
+    align-content: center;
+	margin-top: 20px;
+	cursor: pointer;
+	width: 230px;
+	height: 360px;
+    
+}
+/* end quangcao */
+.content-banchay{
+    padding-top: 20px;
+}
+/* Sản phẩm */
+.sanpham{
+	margin-top: 20px;
+}
+.sanpham .row{
+	margin-bottom: 20px;
+}
+.sanpham .row div.col-sm-6.col-md-4{
+	margin-bottom: 10px;
+}
+.sanpham .product-grid{
+	height: 344px;
+}
+.sanpham .product-grid:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.product-grid .image{
+	text-align: center;
+}
+.product-grid .image img{
+	width: 176px;
+	height: 199px;
+}
+.product-grid .noidung{
+	padding-bottom: 1px;
+}
+.product-grid p.title{
+    color: black;
+	font-family: The Circus Display;
+    margin-top: 3px;
+    margin-left: 5px;
+    padding: 0;
+    line-height: 1.54;
+}
+.product-grid p.author{
+	margin-top: -10px;
+    margin-bottom: 2px;
+    padding: 5px 0 0;
+    margin-left: 5px;
+    color: #777;
+    font-size: 11px;
+    text-align: left;
+}
+.product-grid .final-price{
+	margin-left: 5px;
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+}
+.product-grid .sale-tag.sale-tag-square{
+    display: inline-block;
+    margin-left: 0;
+    padding-left: 4px;
+    color: #787878;
+    font-weight: 300;
+}
+.product-grid .price-regular{
+	margin-left: 5px;
+    position: relative;
+    color: #787878;
+}
+.product-grid button{
+	margin-right: 10px;
+	margin-top: -60px;
+    float: right;
+    background-color: #2eccfa;
+}

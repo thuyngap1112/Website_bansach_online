@@ -1,0 +1,10 @@
+.content-container{
+	padding: 25px;
+}
+.jumbotron button{
+	font-size: 21px;
+	border-radius: 5px;
+	background:  #2ECCFA;
+	padding-left: 3px;
+	padding-right: 3px;
+}

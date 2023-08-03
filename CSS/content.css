@@ -1,0 +1,294 @@
+.cac-dm-sach{
+	margin-top: 15px;
+}
+/* sach moi */
+.cac-dm-sach .sachmoi h3{
+	background: #f2f2f2;
+    font-family: "Times New Roman",Times,serif;
+    padding: 0;
+    height: 38px;
+}
+.cac-dm-sach .sachmoi h3 a.title{
+	text-decoration: none;
+	position: relative;
+    font-size: 18px; 
+    line-height: 38px;
+    font-weight: bold;
+    color: #fff;
+    background: #2ECCFA;
+    padding: 9px 20px 9px 15px;
+    text-transform: capitalize;
+    margin: 0;
+}
+.cac-dm-sach .sachmoi h3 a.more{
+	text-decoration: none;
+	font-size: 14px;
+    color: #595959;
+    float: right;
+    padding: 11px 20px;
+}
+.cac-dm-sach .sachmoi h3 a.more:hover{
+	color: #2ECCFA;
+}
+
+/* slide sach moi */
+.sm-content{
+    margin-top: -8px;
+}
+.sm-content #inam{
+    margin-top: 10px;
+}
+.carousel-inner .col-sm-12.col-lg-2.col-md-2{
+    margin-right: 35px;
+}
+ .carousel-inner a{
+    text-decoration: none;
+    color: black;
+}
+.carousel-inner span.carousel-control-prev-icon{
+    font-size: 30px;
+}
+ .carousel-inner div.card{
+    width: 200px; 
+    height: 370px;
+}
+ .carousel-inner div.card img{
+    width: 180px;
+    height: 185px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+ .carousel-inner .card .card-body{
+    line-height: 5px;
+}
+ .carousel-inner .card .card-body p.title{
+    margin: 0;
+    padding: 0;
+    line-height: 1.54;
+}
+ .carousel-inner .card .card-body p.author{
+    padding: 5px 0 0;
+    color: #777;
+    font-size: 11px;
+    text-align: left;
+}
+ .carousel-inner .card .card-body .price-sale{
+    padding-top: 4px;
+    line-height: 1.54;
+    float: left;
+}
+.carousel-inner .card .card-body .final-price{
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+}
+.carousel-inner .card .card-body .sale-tag.sale-tag-square{
+    display: inline-block;
+    margin-left: 0;
+    padding-left: 4px;
+    color: #787878;
+    font-weight: 300;
+}
+.carousel-inner .card .card-body .price-regular{
+    position: relative;
+    color: #787878;
+}
+.carousel-inner .card .card-body button{
+    float: right;
+    background-color: #2eccfa;
+}
+/* end slide sach moi */
+
+/* end sach moi*/
+/* sach ban chay */
+.cac-dm-sach .sachtuduy{
+    margin-top: 15px;
+}
+.sachtuduy .bc-content #inam1{
+     margin-top: 10px;
+}
+.cac-dm-sach .sachtuduy h3{
+    background: #f2f2f2;
+    font-family: "Times New Roman",Times,serif;
+    padding: 0;
+    height: 38px;
+}
+.cac-dm-sach .sachtuduy h3 a.title{
+    text-decoration: none;
+    position: relative;
+    font-size: 18px;
+    line-height: 38px;
+    font-weight: bold;
+    color: #fff;
+    background: #2ECCFA;
+    padding: 9px 20px 9px 15px;
+    text-transform: capitalize;
+    margin: 0;
+}
+.cac-dm-sach .sachtuduy h3 a.more{
+    text-decoration: none;
+    font-size: 14px;
+    color: #595959;
+    float: right;
+    padding: 11px 20px;
+}
+.cac-dm-sach .sachtuduy h3 a.more:hover{
+    color: #2ECCFA;
+}
+/* end sach ban chay */
+/* sach sap phat hanh */
+.cac-dm-sach .sachtamly{
+    margin-top: 15px;
+}
+.sachtamly .ph-content #inam2{
+     margin-top: 10px;
+}
+.cac-dm-sach .sachtamly h3{
+    background: #f2f2f2;
+    font-family: "Times New Roman",Times,serif;
+    padding: 0;
+    height: 38px;
+}
+.cac-dm-sach .sachtamly h3 a.title{
+    text-decoration: none;
+    position: relative;
+    font-size: 18px;
+    line-height: 38px;
+    font-weight: bold;
+    color: #fff;
+    background: #2ECCFA;
+    padding: 9px 20px 9px 15px;
+    text-transform: capitalize;
+    margin: 0;
+}
+.cac-dm-sach .sachtamly h3 a.more{
+    text-decoration: none;
+    font-size: 14px;
+    color: #595959;
+    float: right;
+    padding: 11px 20px;
+}
+.cac-dm-sach .sachtamly h3 a.more:hover{
+    color: #2ECCFA;
+}
+/* end sach sap phat hanh */
+
+.cac-dm-sach .truyen{
+    margin-top: 15px;
+}
+.truyen .ph-content #inam2{
+     margin-top: 10px;
+}
+.cac-dm-sach .truyen h3{
+    background: #f2f2f2;
+    font-family: "Times New Roman",Times,serif;
+    padding: 0;
+    height: 38px;
+}
+.cac-dm-sach .truyen h3 a.title{
+    text-decoration: none;
+    position: relative;
+    font-size: 18px;
+    line-height: 38px;
+    font-weight: bold;
+    color: #fff;
+    background: #2ECCFA;
+    padding: 9px 20px 9px 15px;
+    text-transform: capitalize;
+    margin: 0;
+}
+.cac-dm-sach .truyen h3 a.more{
+    text-decoration: none;
+    font-size: 14px;
+    color: #595959;
+    float: right;
+    padding: 11px 20px;
+}
+.cac-dm-sach .truyen h3 a.more:hover{
+    color: #2ECCFA;
+}
+
+/* Danh mục */
+.cac-dm-sach .danhmuc{
+    margin-top: 15px;
+}
+.cac-dm-sach .danhmuc h3{
+    background: #f2f2f2;
+    font-family: "Times New Roman",Times,serif;
+    padding: 0;
+    height: 38px;
+}
+.cac-dm-sach .danhmuc h3 a.title{
+    text-decoration: none;
+    position: relative;
+    font-size: 18px;
+    line-height: 38px;
+    font-weight: bold;
+    color: #fff;
+    background: #2ECCFA;
+    padding: 9px 20px 9px 15px;
+    text-transform: capitalize;
+    margin: 0;
+}
+.cac-dm-sach .danhmuc h3 a.more{
+    text-decoration: none;
+    font-size: 14px;
+    color: #595959;
+    float: right;
+    padding: 11px 20px;
+}
+.cac-dm-sach .danhmuc h3 a.more:hover{
+    color: #2ECCFA;
+}
+.hang1{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.hang2{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.panel-default {    
+    text-align:center;  
+    cursor:pointer; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sach{
+    margin-right: 20px;
+}
+.sach1{
+    margin-right: 20px;
+}
+.panel-default .panel-body img{
+    width: 128px;
+    height: 196px;
+}
+.panel-default  .panel-footer { 
+    color: #000;    
+    background-color: #F8F8F8;  
+    display:none;   
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 12px;    
+    text-align: left;
+}
+ 
+.panel-default .panel-footer a{
+    color: #0F0F18;
+    text-decoration: none;
+}
+ 
+.panel-default .panel-footer a h4 {
+    padding-top: 10px;
+    font-size: 15px;  
+    text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+}
+ 
+.panel-default:hover {  
+    margin-top: 0px;    
+    margin-right: 0px;  
+    margin-bottom: 0px;
+}
+.danhmuc .dm-content .sach .panel-footer a h4{
+  font-size: 1rem;
+}
+/* end Danh muc */

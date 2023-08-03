@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.giohang{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color:  #E9EDEF;
+}
+.procart1 span.tieude{
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+.procart span.than{
+    text-align: center;
+    display: block;
+}
+
+
+.giohang .ctsanpham{
+	padding: 15px;
+	background-color: white;
+}
+.giohang .ctsanpham ul{
+	list-style: none;
+}
+.giohang .ctsanpham ul li{
+	margin-bottom:100px;
+}
+.giohang .ctsanpham .img img{
+	float: left;
+	width: 120px;
+	height: 120px;
+	margin-right: 20px;
+}
+.giohang .ctsanpham .tien{
+	float: right;
+	float: right;
+    margin-top: -87px;
+    margin-right: 141px;
+}
+.giohang .ctsanpham .soluong{
+	float: right;
+	margin-top: -75px;
+}
+.giohang .ctsanpham .soluong input{
+    width: 35px;
+    height: 28px;
+}
+.giohang .ctsanpham .soluong input#textbox{
+	margin-left: -6px;
+    width: 50px;
+    margin-top: -2px;
+    padding: 3px 12px;
+    margin-right: -6px;
+}
+/* ----------------------------------------------------- */
+.giohang .thanhtien{
+	padding: 20px 10px;
+	margin-left: 30px;
+	background-color: white;
+}
+.giohang .thanhtien .tamtinh{
+	padding-bottom: 50px;
+	border-bottom: 1px solid #DBE5E3;
+}
+.giohang .thanhtien .thanhtoan{
+	margin-top: 20px;
+	padding-bottom: 50px;
+}
+.giohang .thanhtien button.cart_submit{
+	background: rgb(255, 66, 78);
+    color: rgb(255, 255, 255);
+    padding: 13px 10px;
+    text-align: center;
+    border-radius: 4px;
+    border: none;
+    width: 100%;
+    display: block;
+    margin: 15px 0px;
+    cursor: pointer;
+}
+

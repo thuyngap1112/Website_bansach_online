@@ -1,0 +1,97 @@
+
+h2{
+	font-family: Poppins;
+	font-size: 22px;
+}
+.footer-top{
+	padding: 30px 0;
+}
+#footer{
+	padding-bottom: 20px;
+	border-bottom: 1px solid rgb(247, 247, 247);
+}
+.segment-one h2{
+	margin: 10px 0;
+}
+.segment-one a{
+	text-decoration: none;
+	color: rgb(51, 51, 51);
+	display: block;
+	line-height: 32px;
+}
+.segment-one a:hover{
+	color: #0cf;
+	margin-left: 15px;
+	transition: all .3s;
+}
+.segment-two h2{
+	margin: 10px 0;
+}
+.segment-two h2:before{
+	content: '|';
+	color: #c65039;
+	padding-right: 10px;
+}
+.segment-two a{
+	text-decoration: none;
+	color: rgb(51, 51, 51);
+	display: block;
+	line-height: 32px;
+}
+.segment-two a:hover{
+	color: #0cf;
+	margin-left: 15px;
+	transition: all .3s;
+}
+.segment-three h2{
+	margin: 10px 0;
+	font-family: Poppins;
+}
+.segment-three h2:before{
+	content: '|';
+	color: #c65039;
+	padding-right: 10px;
+}
+.segment-three div.payment{
+	text-align: center;
+}
+.segment-three .icon{
+	display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 7px;
+    vertical-align: middle;
+}
+.segment-four h2{
+	margin: 10px 0;
+}
+.segment-four h2:before{
+	content: '|';
+	color: #c65039;
+	padding-right: 10px;
+}
+.segment-four .ketnoi{
+	margin-left: 15px;
+}
+.segment-four a{
+	font-size: 25px;
+	padding-right: 10px;
+}
+.diachi{
+	margin-top: 25px;
+}
+.footer-bottom-text{
+	color: rgb(247, 247, 247);
+	text-align: center;
+	background: #000;
+	line-height: 70px;
+	margin-bottom: 0px;
+}
+/* responsive css */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	.md-mb-30{
+		margin-bottom: 30px;
+	}
+	.footer-top{
+		padding: 50px 0;
+	}
+}
